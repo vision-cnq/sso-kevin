@@ -18,6 +18,7 @@
 
     <modules>
         <module>sso-session-cross-domain</module>
+        <module>sso-jwt</module>
     </modules>
 
 
